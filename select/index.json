@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "innocent world",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-29T06:34:02.957306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Innocent World",
+      "artist": "Freedom Call",
+      "has_synced": true,
+      "path": "select/01_Innocent_World_Freedom_Call.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Innocent World",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/02_Innocent_World_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost Innocent World",
+      "artist": "Gogol Bordello",
+      "has_synced": true,
+      "path": "select/03_Lost_Innocent_World_Gogol_Bordello.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "innocent world",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_innocent_world_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Innocent World",
+      "artist": "Joseph Arthur",
+      "has_synced": true,
+      "path": "select/05_Innocent_World_Joseph_Arthur.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Innocent World",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_Innocent_World_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Innocent World",
+      "artist": "Nana Kitade",
+      "has_synced": false,
+      "path": "select/07_Innocent_World_Nana_Kitade.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "innocent world",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/08_innocent_world_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "innocent world",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/09_innocent_world_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First in an Innocent World",
+      "artist": "The Pattern Forms",
+      "has_synced": true,
+      "path": "select/10_First_in_an_Innocent_World_The_Pattern_Forms.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "innocent world",
+      "artist": "mrchildren",
+      "has_synced": true,
+      "path": "select/11_innocent_world_mrchildren.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gogol Bordello - Lost Innocent World",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/12_Gogol_Bordello_-_Lost_Innocent_World_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "innocent world",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/13_innocent_world_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "innocent world",
+      "artist": "Mr.Children 1992-1995",
+      "has_synced": true,
+      "path": "select/14_innocent_world_Mr.Children_1992-1995.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "03_Innocent world",
+      "artist": "Iggy Pop",
+      "has_synced": false,
+      "path": "select/15_03_Innocent_world_Iggy_Pop.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "innocent world",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_innocent_world_Mr.Children.txt"
+    }
+  ]
+}
